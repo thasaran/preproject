@@ -42,7 +42,7 @@
         <aside>
             <div class="top">
                 <div class="logo">
-                    <img src="./images/logo.png">
+                    <img src="./logo.png">
                     <h2>PRE<span class="danger">PROJECT</span></h2>
                 </div>
             </div>
@@ -141,7 +141,7 @@
                                 ?>
                             </div>
                         </div>
-                        <div class="img-tree"><img src="./images/tree.png"></div>
+                        <div class="img-tree"><img src="./tree.png"></div>
                     </div>
                 </div>
             </div>

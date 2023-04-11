@@ -17,7 +17,7 @@
         <aside>
             <div class="top">
                 <div class="logo">
-                    <img src="./images/logo.png">
+                    <img src="./logo.png">
                     <h2>PRE<span class="danger">PROJECT</span></h2>
                 </div>
                 <div class="close" id="close-btn">
@@ -61,7 +61,7 @@
             <div class="member">
 
                 <div class="img">
-                    <img src="./images/song1.jpg" alt="">
+                    <img src="./song1.jpg" alt="">
                 </div>
 
                 <div class="content">
@@ -84,7 +84,7 @@
             <div class="member">
 
                 <div class="img">
-                    <img src="./images/rat1.jpg" alt="">
+                    <img src="./rat1.jpg" alt="">
                 </div>
 
                 <div class="content">
@@ -105,7 +105,7 @@
             <div class="member">
 
                 <div class="img">
-                    <img src="./images/firm1.jpg" alt="">
+                    <img src="./firm1.jpg" alt="">
                 </div>
 
                 <div class="content">
