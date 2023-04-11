@@ -32,7 +32,7 @@
         <aside>
             <div class="top">
                 <div class="logo">
-                    <img src="./images/logo.png">
+                    <img src="./logo.png">
                     <h2>PRE<span class="danger">PROJECT</span></h2>
                 </div>
                 <div class="close" id="close-btn">
