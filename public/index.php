@@ -175,7 +175,7 @@
                                 while($row = mysqli_fetch_assoc($result7)) {
                                     echo "<tr>";
                                     echo "<td>Air Humidity</td>";
-                                    echo "<td>" . $row["temp"] . "</td>";
+                                    echo "<td>" . $row["humid"] . "</td>";
                                     echo "<td>%RH</td>";
                                     echo "<td>" . $row["uptime"] . "</td>";
                                     echo "</tr>";
@@ -185,7 +185,7 @@
                                 while($row = mysqli_fetch_assoc($result6)) {
                                     echo "<tr>";
                                     echo "<td>Soil Temperature</td>";
-                                    echo "<td>" . $row["humid"] . "</td>";
+                                    echo "<td>" . $row["temp"] . "</td>";
                                     echo "<td>°C</td>";
                                     echo "<td>" . $row["uptime"] . "</td>";
                                     echo "</tr>";
