@@ -172,7 +172,7 @@
                                 }
                                 ?>
                                 <?php
-                                while($row = mysqli_fetch_assoc($result7)) {
+                                while($row = mysqli_fetch_assoc($result6)) {
                                     echo "<tr>";
                                     echo "<td>Air Humidity</td>";
                                     echo "<td>" . $row["humid"] . "</td>";
@@ -182,7 +182,7 @@
                                 }
                                 ?>
                                 <?php
-                                while($row = mysqli_fetch_assoc($result6)) {
+                                while($row = mysqli_fetch_assoc($result7)) {
                                     echo "<tr>";
                                     echo "<td>Soil Temperature</td>";
                                     echo "<td>" . $row["temp"] . "</td>";
