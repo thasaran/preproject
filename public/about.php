@@ -71,7 +71,7 @@
                         <h3>ID 63010175<br></h3>
                         <p>
                             FB : Chayanon Wongnammai<br>
-                            Line : songzee1955<br>
+                            Line ID : songzee1955<br>
                             IG : song_cyn<br>
                             Call : 09 6043 2709
                         </p>
@@ -93,7 +93,7 @@
                         <h3>ID 63010448<br></h3>
                         <p>
                             FB : Thammarat Trisaranaapirak<br>
-                            Line : ratzamahoad<br>
+                            Line ID : ratrat124410<br>
                             IG : rat_tmr<br>
                             Call : 09 5525 3050
                         </p>
@@ -114,7 +114,7 @@
                         <h3>ID 63010450<br></h3>
                         <p>
                             FB : Thasaran Wongsuphachaipreecha<br>
-                            Line : holyfirm<br>
+                            Line ID : confirmeiei<br>
                             IG : thasaran<br>
                             Call : 06 1842 9151
                         </p>
